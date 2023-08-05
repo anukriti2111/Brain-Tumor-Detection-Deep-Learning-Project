@@ -4,4 +4,4 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 
 Application of automated classification techniques using Machine Learning(ML) and Artificial Intelligence(AI)has consistently shown higher accuracy than manual classification. Hence, proposing a system performing detection and classification by using Deep Learning Algorithms using ConvolutionNeural Network (CNN), Artificial Neural Network (ANN), and TransferLearning (TL) would be helpful to doctors all around the world.
 
-In this project, we use CNN to first identify brain tumors and then classify them into Benign Tumors, Malignant Tumors, or Pituitary Tumors. The data set holds 3260 images on T1-weighted contrast-enhanced images that were cleaned and augmented. 
+In this project, we use CNN to first identify brain tumors and then classify them into Benign Tumors, Malignant Tumors, or Pituitary Tumors. The data set holds 3260 images on T1-weighted contrast-enhanced images that were cleaned and augmented. In this project, the model predicted with an accuracy of 92.86%.
